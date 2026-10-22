@@ -14,4 +14,4 @@ __pycache__/
 .vscode/
 
 # translated dataset
-capstoneProject/kold_top50_google.csv
+*.csv
